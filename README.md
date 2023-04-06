@@ -1,4 +1,6 @@
-# REPIC
+## WARNING &mdash; this is a fork of REPIC (commit hash [7f9ae20](https://github.com/ccameron/REPIC/tree/7f9ae20bd058b5304e2a37544c4e280fc38355b7)) for posterity and may be out of date. Please use, reference, and post issues in the official REPIC GitHub repository: [https://github.com/ccameron/REPIC](https://github.com/ccameron/REPIC)
+
+# REPIC-copy
 <ins>RE</ins>liable <ins>PI</ins>cking by <ins>C</ins>onsensus (REPIC)
 
 ## Overview
